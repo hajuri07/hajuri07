@@ -60,7 +60,7 @@
 
 ---
 
-## ⚡ Quote
+
 
 <p align="center">
   <i>"Inference over intuition."</i>
