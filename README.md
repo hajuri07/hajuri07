@@ -56,12 +56,6 @@
 
 ---
 
-
-
----
-
-
-
 <p align="center">
   <i>"Inference over intuition."</i>
 </p>
