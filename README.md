@@ -1,9 +1,6 @@
 
 <h1 align="center">Hey 👋 I'm Hajuri</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;Building+LLMs+%26+AI+Agents;Future+OpenAI+Engineer;Deep+Learning+%7C+Research+%7C+Development" />
-</p>
 
 ---
 
@@ -42,42 +39,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6"/>
-</p>
-
----
-
-## 🚀 Current Goals
-
-- Crack a Data Science Internship
-- Publish a Research Paper
-- Master Deep Learning
-- Build Production AI Systems
-- Contribute to Open Source
-
----
-
 ## 📚 Research Interests
 
 - Large Language Models (LLMs)
@@ -102,11 +63,7 @@
 
 ---
 
-## 👀 Profile Views
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
 
 ---
 
