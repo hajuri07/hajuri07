@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I'm Hajuri 👋
 
-<!--
-**hajuri07/hajuri07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE student specializing in AI/ML
+Turning code and data into real intelligence — one project at a time.
 
-Here are some ideas to get you started:
+## What I work with
+**AI/ML** → PyTorch, TensorFlow, Scikit-learn,Keras
+**LLM & Agents** → LangChain, CrewAI, LangGraph, HuggingFace,LangGraph,N8N
+**Vector DBs** → ChromaDB, AstraDB,Pinecone
+**Backend** → FastAPI, Streamlit, Gradio
+**Languages** → Python, C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- 🌱 Starting to  write a research paper 
+- 🔭 Building AI projects
+
+
+## Let's connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/ibrahimhajuri)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=flat&logo=huggingface)](https://huggingface.co/hajuri07)
+
+
