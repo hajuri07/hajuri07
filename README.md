@@ -1,14 +1,13 @@
 
-<h1 align="center">Hey 👋 I'm Hajuri</h1>
+<h1 align="center">Hey 👋 I'm Ibrahim Hajuri</h1>
 
 
 ---
 ## 💫 About Me
 
-🎓 CSE Student specializing in AI & Machine Learning  
-🧠 Building intelligent systems using LLMs, Deep Learning & AI Agents  
-🚀 Passionate about AI research and real-world ML systems
-
+🎓 B.Tech CSE student @ JG University
+🧠 learning backennd development with  Golang and fast API
+🚀Also into ML engineering 
 ---
 
 ## ⚡ Tech Stack
@@ -37,8 +36,7 @@
 - Large Language Models (LLMs)
 - AI Agents
 - Computer Vision
-- Reinforcement Learning
-- Efficient AI Systems
+
 
 ---
 
