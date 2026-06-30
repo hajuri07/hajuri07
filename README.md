@@ -78,10 +78,6 @@ Building AI applications with LLMs, FastAPI, Golang and PyTorch.
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface"/>
 </a>
 
-
-
----
-
 <p align="center">
 
 <i>"Inference over intuition."</i>
