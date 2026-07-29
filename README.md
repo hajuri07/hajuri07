@@ -110,30 +110,6 @@ Savings & loan management platform. Flask · PostgreSQL, deployed live on Railwa
 
 ---
 
-### 🌐 3D Contribution Graph
 
-<!-- START 3D CONTRIB -->
-<p align="center">
-<a href="https://github.com/hajuri07/hajuri07/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
-<img src="https://raw.githubusercontent.com/hajuri07/hajuri07/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="90%"/>
-<img src="https://raw.githubusercontent.com/hajuri07/hajuri07/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="90%"/>
-</a>
-</p>
-<!-- END 3D CONTRIB -->
 
----
-
-### 🌐 Connect
-
-<p align="center">
-<a href="https://linkedin.com/in/ibrahimhajuri">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://huggingface.co/hajuri07">
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface"/>
-</a>
-</p>
-
-<p align="center">
-<i>"Inference over intuition."</i>
 </p>
