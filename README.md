@@ -13,6 +13,10 @@ Building AI applications with LLMs, FastAPI, Golang and PyTorch.
 </p>
 
 <p align="center">
+<img src="https://raw.githubusercontent.com/hajuri07/hajuri07/main/assets/header-3d.svg" width="750" alt="isometric dev desk illustration" />
+</p>
+
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=hajuri07&label=Profile%20Views&color=4EA1FF&style=flat" alt="profile views" />
 <a href="https://linkedin.com/in/ibrahimhajuri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="https://huggingface.co/hajuri07"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black"/></a>
