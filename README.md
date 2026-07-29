@@ -56,53 +56,9 @@ Building AI applications with LLMs, FastAPI, Golang and PyTorch.
 
 ---
 
-### 🛠️ Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🔍 AI Code Reviewer**
-Backend + MLOps flagship project. FastAPI · PostgreSQL · SQLAlchemy · JWT auth (python-jose) · Groq LLM integration for automated code review.
-
-</td>
-<td width="50%" valign="top">
-
-**🤝 Multi-Agent Research Copilot**
-Agentic AI system built with **CrewAI** using a Planner–Researcher–Critic architecture for autonomous research workflows.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🩺 SkinSense AI**
-Skin disease classifier on HAM10000. Benchmarked EfficientNet-B0 (82.2% acc), ResNet50, and a from-scratch CustomCNN. Grad-CAM explainability, MLflow tracking, deployed via Streamlit.
-
-</td>
-<td width="50%" valign="top">
-
-**💰 Al-Madad Bachat**
-Savings & loan management platform. Flask · PostgreSQL, deployed live on Railway.
-
-</td>
-</tr>
-</table>
-
-<p align="center"><i>More projects on my <a href="https://github.com/hajuri07?tab=repositories">repositories page →</a></i></p>
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hajuri07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajuri07&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hajuri07&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=hajuri07&theme=algolia&no-frame=true&row=1&column=6" />
