@@ -54,10 +54,10 @@ Building AI applications with LLMs, FastAPI, Golang and PyTorch.
 <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
 </p>
 
----
 
 
----
+
+
 
 
 <p align="center">
