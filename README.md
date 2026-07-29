@@ -12,74 +12,124 @@ Building AI applications with LLMs, FastAPI, Golang and PyTorch.
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=4EA1FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Machine+Learning+Engineer;Backend+Developer;Learning+Something+New+Every+Day" />
 </p>
 
----
-
-# 🚀 About Me
-
-🎓 B.Tech CSE Student @ JG University
-
-🤖 Passionate about AI, Machine Learning & Backend Engineering
-
-🌱 Currently learning
-
-- Golang
-- FastAPI
-- AI Agents
-
-💡 Interested in
-
-- Large Language Models
-- AI Agents
-- Computer Vision
-
----
-
-# 💻 Tech Stack
-
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,go,fastapi,pytorch,tensorflow,mysql,docker,git,github,vscode,linux" />
-
+<img src="https://komarev.com/ghpvc/?username=hajuri07&label=Profile%20Views&color=4EA1FF&style=flat" alt="profile views" />
+<a href="https://linkedin.com/in/ibrahimhajuri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://huggingface.co/hajuri07"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black"/></a>
 </p>
 
 ---
 
-# 🧠 AI / ML Toolkit
+### 🚀 About Me
+
+- 🎓 B.Tech CSE (AI/ML) student @ JG University, Surat — graduating 2029
+- 🤖 Passionate about AI, Machine Learning & Backend Engineering
+- 🌱 Currently learning **Golang**, **FastAPI**, **AI Agents**
+- 💡 Interested in **LLMs**, **Agentic AI**, **Computer Vision**
+- 🎯 Targeting a data science internship and building toward a career in applied AI
+- ⚡ "Inference over intuition."
+
+---
+
+### 💻 Tech Stack
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,go,fastapi,pytorch,tensorflow,mysql,postgres,docker,git,github,vscode,linux" />
+</p>
 
-<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
+### 🧠 AI / ML Toolkit
 
-<img src="https://img.shields.io/badge/LangGraph-grey?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CrewAI-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Pinecone-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/ChromaDB-purple?style=for-the-badge"/>
-
+<p align="center">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-6A3DE8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
 </p>
 
 ---
 
+### 🛠️ Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
-# 🌐 Connect
+**🔍 AI Code Reviewer**
+Backend + MLOps flagship project. FastAPI · PostgreSQL · SQLAlchemy · JWT auth (python-jose) · Groq LLM integration for automated code review.
+
+</td>
+<td width="50%" valign="top">
+
+**🤝 Multi-Agent Research Copilot**
+Agentic AI system built with **CrewAI** using a Planner–Researcher–Critic architecture for autonomous research workflows.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🩺 SkinSense AI**
+Skin disease classifier on HAM10000. Benchmarked EfficientNet-B0 (82.2% acc), ResNet50, and a from-scratch CustomCNN. Grad-CAM explainability, MLflow tracking, deployed via Streamlit.
+
+</td>
+<td width="50%" valign="top">
+
+**💰 Al-Madad Bachat**
+Savings & loan management platform. Flask · PostgreSQL, deployed live on Railway.
+
+</td>
+</tr>
+</table>
+
+<p align="center"><i>More projects on my <a href="https://github.com/hajuri07?tab=repositories">repositories page →</a></i></p>
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hajuri07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajuri07&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hajuri07&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=hajuri07&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 🌐 3D Contribution Graph
+
+<!-- START 3D CONTRIB -->
+<p align="center">
+<a href="https://github.com/hajuri07/hajuri07/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
+<img src="https://raw.githubusercontent.com/hajuri07/hajuri07/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="90%"/>
+<img src="https://raw.githubusercontent.com/hajuri07/hajuri07/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="90%"/>
+</a>
+</p>
+<!-- END 3D CONTRIB -->
+
+---
+
+### 🌐 Connect
+
+<p align="center">
 <a href="https://linkedin.com/in/ibrahimhajuri">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-
 <a href="https://huggingface.co/hajuri07">
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface"/>
 </a>
+</p>
 
 <p align="center">
-
 <i>"Inference over intuition."</i>
-
 </p>
