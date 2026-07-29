@@ -1,0 +1,105 @@
+<svg viewBox="0 0 900 460" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1524"/>
+      <stop offset="100%" stop-color="#182236"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#4EA1FF" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#4EA1FF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="cubeTop" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8fd3ff"/>
+      <stop offset="100%" stop-color="#4EA1FF"/>
+    </linearGradient>
+    <linearGradient id="cubeLeft" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3576c9"/>
+      <stop offset="100%" stop-color="#2457a1"/>
+    </linearGradient>
+    <linearGradient id="cubeRight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#255e9e"/>
+      <stop offset="100%" stop-color="#1a4578"/>
+    </linearGradient>
+    <linearGradient id="screenGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#274766"/>
+      <stop offset="100%" stop-color="#12182a"/>
+    </linearGradient>
+  </defs>
+
+  <!-- background card -->
+  <rect x="0" y="0" width="900" height="460" rx="18" fill="url(#bg)"/>
+
+  <!-- ambient glow behind floating cube -->
+  <ellipse cx="470" cy="130" rx="180" ry="140" fill="url(#glow)"/>
+
+  <!-- faint isometric floor grid -->
+  <g stroke="#2a3652" stroke-width="1" opacity="0.35">
+    <line x1="120" y1="330" x2="450" y2="410"/>
+    <line x1="220" y1="280" x2="550" y2="360"/>
+    <line x1="320" y1="230" x2="650" y2="310"/>
+    <line x1="780" y1="330" x2="450" y2="410"/>
+    <line x1="680" y1="280" x2="350" y2="360"/>
+    <line x1="580" y1="230" x2="250" y2="310"/>
+  </g>
+
+  <!-- soft shadow under desk -->
+  <ellipse cx="470" cy="428" rx="230" ry="26" fill="#000000" opacity="0.25"/>
+
+  <!-- orbit ring around floating cube -->
+  <ellipse cx="470" cy="130" rx="150" ry="42" fill="none" stroke="#4EA1FF" stroke-width="1.4" stroke-dasharray="4 6" opacity="0.55"/>
+
+  <!-- floating particles -->
+  <circle cx="270" cy="120" r="4" fill="#4EA1FF" opacity="0.7"/>
+  <circle cx="640" cy="90" r="3" fill="#8fd3ff" opacity="0.6"/>
+  <circle cx="700" cy="160" r="5" fill="#4EA1FF" opacity="0.5"/>
+  <circle cx="230" cy="190" r="3" fill="#8fd3ff" opacity="0.5"/>
+  <circle cx="600" cy="60" r="2.5" fill="#ffffff" opacity="0.5"/>
+
+  <!-- ===== DESK ===== -->
+  <polygon points="302.8,295.0 508.9,414.0 508.9,434.4 302.8,315.4" fill="#232f42"/>
+  <polygon points="656.1,329.0 508.9,414.0 508.9,434.4 656.1,349.4" fill="#2b3850"/>
+  <polygon points="450.0,210.0 656.1,329.0 508.9,414.0 302.8,295.0" fill="#3a4a63"/>
+
+  <!-- ===== MONITOR STAND ===== -->
+  <polygon points="455.9,288.2 473.6,298.4 473.6,315.4 455.9,305.2" fill="#3a4863"/>
+  <polygon points="491.2,288.2 473.6,298.4 473.6,315.4 491.2,305.2" fill="#455473"/>
+  <polygon points="473.6,278.0 491.2,288.2 473.6,298.4 455.9,288.2" fill="#5a6b85"/>
+
+  <!-- ===== MONITOR BODY ===== -->
+  <polygon points="452.9,237.2 500.1,264.4 500.1,315.4 452.9,288.2" fill="url(#screenGlow)"/>
+  <polygon points="504.5,261.9 500.1,264.4 500.1,315.4 504.5,312.9" fill="#161f30"/>
+  <polygon points="457.4,234.7 504.5,261.9 500.1,264.4 452.9,237.2" fill="#1b2437"/>
+
+  <!-- code lines on monitor screen -->
+  <g stroke-width="2.4" stroke-linecap="round">
+    <line x1="452.9" y1="246.4" x2="493.0" y2="269.5" stroke="#4EA1FF"/>
+    <line x1="452.9" y1="254.5" x2="478.9" y2="269.5" stroke="#7fd88f"/>
+    <line x1="452.9" y1="262.7" x2="485.9" y2="281.7" stroke="#e0e0e0" opacity="0.8"/>
+    <line x1="452.9" y1="270.9" x2="471.8" y2="281.7" stroke="#c98fe0"/>
+    <line x1="452.9" y1="279.0" x2="483.6" y2="296.7" stroke="#4EA1FF" opacity="0.8"/>
+  </g>
+
+  <!-- ===== LAPTOP ===== -->
+  <polygon points="346.9,283.1 394.1,310.3 394.1,316.4 346.9,289.2" fill="#9aa1ad"/>
+  <polygon points="426.4,291.6 394.1,310.3 394.1,316.4 426.4,297.7" fill="#aeb4bf"/>
+  <polygon points="379.3,264.4 426.4,291.6 394.1,310.3 346.9,283.1" fill="#c7cdd6"/>
+  <polygon points="365,275.5 394.1,292.3 394.1,296.5 365,279.7" fill="#8a92a1" opacity="0.6"/>
+
+  <!-- ===== PLANT ===== -->
+  <polygon points="564.8,313.7 591.3,329.0 591.3,352.8 564.8,337.5" fill="#7a4626"/>
+  <polygon points="617.8,313.7 591.3,329.0 591.3,352.8 617.8,337.5" fill="#8f5730"/>
+  <polygon points="591.3,298.4 617.8,313.7 591.3,329.0 564.8,313.7" fill="#b06a3d"/>
+  <g fill="#4a9d5f">
+    <path d="M591,300 C575,275 570,250 585,235 C592,258 594,280 591,300 Z"/>
+    <path d="M591,300 C605,270 615,248 608,228 C598,252 592,278 591,300 Z"/>
+    <path d="M591,300 C583,272 578,255 588,240 C594,258 594,282 591,300 Z" fill="#5fb872"/>
+  </g>
+
+  <!-- ===== FLOATING AI CUBE ===== -->
+  <polygon points="432.3,108.0 470.6,130.1 470.6,174.3 432.3,152.2" fill="url(#cubeLeft)"/>
+  <polygon points="508.9,108.0 470.6,130.1 470.6,174.3 508.9,152.2" fill="url(#cubeRight)"/>
+  <polygon points="470.6,85.9 508.9,108.0 470.6,130.1 432.3,108.0" fill="url(#cubeTop)"/>
+
+  <!-- subtle highlight lines on the AI cube -->
+  <path d="M470.6,85.9 L470.6,130.1" stroke="#ffffff" stroke-opacity="0.25" stroke-width="1.5"/>
+</svg>
