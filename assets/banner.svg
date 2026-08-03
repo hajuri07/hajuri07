@@ -1,0 +1,49 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0B0F"/>
+      <stop offset="100%" stop-color="#111318"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <!-- thin border frame -->
+  <rect x="1" y="1" width="1198" height="298" fill="none" stroke="#232630" stroke-width="1"/>
+
+  <!-- minimal node network accent, right side -->
+  <g stroke="#2C3A45" stroke-width="1">
+    <line x1="880" y1="90" x2="960" y2="60"/>
+    <line x1="960" y1="60" x2="1050" y2="95"/>
+    <line x1="880" y1="90" x2="930" y2="150"/>
+    <line x1="930" y1="150" x2="1050" y2="95"/>
+    <line x1="930" y1="150" x2="1000" y2="215"/>
+    <line x1="1050" y1="95" x2="1120" y2="140"/>
+    <line x1="1000" y1="215" x2="1120" y2="140"/>
+    <line x1="1000" y1="215" x2="1080" y2="245"/>
+  </g>
+  <g fill="#4EA1FF">
+    <circle cx="880" cy="90" r="3"/>
+    <circle cx="960" cy="60" r="3"/>
+    <circle cx="1050" cy="95" r="3.5"/>
+    <circle cx="930" cy="150" r="3"/>
+    <circle cx="1000" cy="215" r="3"/>
+    <circle cx="1120" cy="140" r="3"/>
+    <circle cx="1080" cy="245" r="3"/>
+  </g>
+
+  <!-- accent rule -->
+  <rect x="90" y="112" width="46" height="3" fill="#4EA1FF"/>
+
+  <!-- eyebrow -->
+  <text x="90" y="98" font-family="Consolas, 'Courier New', monospace" font-size="13" letter-spacing="3" fill="#7C8590">AI ENGINEER · ML ENGINEER · BACKEND DEVELOPER</text>
+
+  <!-- name -->
+  <text x="88" y="178" font-family="Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#F4F4F2">Ibrahim Hajuri</text>
+
+  <!-- tagline -->
+  <text x="90" y="216" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#9CA3AF">Building AI applications with LLMs, FastAPI, Golang and PyTorch.</text>
+
+  <!-- footer line -->
+  <text x="90" y="262" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="1" fill="#4B5563">github.com/hajuri07</text>
+</svg>
