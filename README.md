@@ -1,71 +1,35 @@
-<h1 align="center">Hi 👋, I'm Ibrahim Hajuri</h1>
+<div align="center">
 
-<h3 align="center">
-AI Engineer • ML Engineer • Backend Developer
-</h3>
+<img src="./assets/banner.svg" width="100%" alt="Ibrahim Hajuri — AI Engineer, ML Engineer, Backend Developer" />
 
-<p align="center">
-Building AI applications with LLMs, FastAPI, Golang and PyTorch.
-</p>
+<br/>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=4EA1FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Machine+Learning+Engineer;Backend+Developer;Learning+Something+New+Every+Day" />
-</p>
+<a href="https://linkedin.com/in/ibrahimhajuri">LinkedIn</a> · <a href="https://huggingface.co/hajuri07">Hugging Face</a> · <a href="https://github.com/hajuri07">GitHub</a>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/hajuri07/hajuri07/main/assets/header-3d.svg" width="750" alt="isometric dev desk illustration" />
-</p>
+</div>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=hajuri07&label=Profile%20Views&color=4EA1FF&style=flat" alt="profile views" />
-<a href="https://linkedin.com/in/ibrahimhajuri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="https://huggingface.co/hajuri07"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black"/></a>
-</p>
+<br/>
 
----
+### About
 
-### 🚀 About Me
+B.Tech CSE (AI/ML) student at JG University, Surat — graduating 2029. I build applications around LLMs and agentic systems, and the backend infrastructure that runs them.
 
-- 🎓 B.Tech CSE (AI/ML) student @ JG University, Surat — graduating 2029
-- 🤖 Passionate about AI, Machine Learning & Backend Engineering
-- 🌱 Currently learning **Golang**, **FastAPI**, **AI Agents**
-- 💡 Interested in **LLMs**, **Agentic AI**, **Computer Vision**
-- 🎯 Targeting a data science internship and building toward a career in applied AI
-- ⚡ "Inference over intuition."
+Currently working with **Golang**, **FastAPI**, and **AI agents**. Focused on LLMs, agentic AI, and computer vision, and building toward a career in applied AI — starting with a data science internship.
 
----
+<br/>
 
-### 💻 Tech Stack
+### Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,go,fastapi,pytorch,tensorflow,mysql,postgres,docker,git,github,vscode,linux" />
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,go,fastapi,pytorch,tensorflow,mysql,postgres,docker,git,linux&theme=dark" />
+</div>
 
-### 🧠 AI / ML Toolkit
+<br/>
 
-<p align="center">
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ChromaDB-6A3DE8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
-</p>
+**AI / ML tooling** — LangChain · LangGraph · CrewAI · Hugging Face · Pinecone · ChromaDB · MLflow · Groq
 
+<br/>
 
-
-
-
-
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hajuri07&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-
-
-</p>
+<div align="center">
+<sub>Inference over intuition.</sub>
+</div>
