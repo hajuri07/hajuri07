@@ -14,7 +14,7 @@
 
 Engineering student at JG University, Ahmedabad. I build applications around LLMs and agentic systems, and the backend infrastructure that runs them.
 
-Currently working with **Golang**, **FastAPI**, and **AI agents**. Focused on LLMs, agentic AI, and computer vision, and building toward a career in applied AI — starting with a data science internship.
+Currently working with **Golang**, **FastAPI**, and **AI agents**. Focused on LLMs, agentic AI, and computer vision, and building toward a career in applied AI.
 
 <br/>
 
